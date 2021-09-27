@@ -389,7 +389,7 @@ hl.langs.vim = {
 }
 
 hl.langs.js = {
-    jsFuncCall = colors.Red
+   jsFunctions = colors.Purple
 }
 
 hl.langs.typescript = {

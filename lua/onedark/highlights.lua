@@ -388,6 +388,14 @@ hl.langs.vim = {
     vimAutoCmdSfxList = colors.Cyan,
 }
 
+hl.langs.js = {
+    jsFuncCall = colors.Red
+}
+
+hl.langs.typescript = {
+
+}
+
 function M.setup()
     vim_highlights(hl.common)
     vim_highlights(hl.syntax)

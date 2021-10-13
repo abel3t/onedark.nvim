@@ -456,7 +456,12 @@ hl.langs.js = {
 hl.langs.typescript = {
     typescriptReserved = colors.purple,
     typescriptEndColons = colors.white,
-    typescriptBraces = colors.white
+    typescriptBraces = colors.white,
+    tsVariableType = colors.Purple,
+    tsArrow = colors.Purple,
+    tsBuiltinValues = colors.Purple,
+    tsFunction = colors.Blue,
+    typescriptFunctionCall = colors.Yellow
 }
 
 function M.setup()

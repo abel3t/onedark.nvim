@@ -442,7 +442,6 @@ hl.langs.js = {
     javascriptExport = colors.Purple,
     javascriptFuncArg = colors.White,
     javascriptFuncKeyword = colors.Purple,
-    javascriptIdentifier = colors.Red,
     javascriptImport = colors.Purple,
     javascriptMethodName = colors.White,
     javascriptObjectLabel = colors.White,
